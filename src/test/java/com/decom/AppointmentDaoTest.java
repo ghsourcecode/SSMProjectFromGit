@@ -1,7 +1,9 @@
 package com.decom;
 
+import ch.qos.logback.core.net.SyslogOutputStream;
 import com.decom.dao.AppointmentDao;
 import com.decom.entity.Appointment;
+import com.sun.tools.doclets.formats.html.SourceToHTMLConverter;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 
@@ -29,4 +31,8 @@ public class AppointmentDaoTest extends BaseTest {
         System.out.println(appointment.getBookId());
     }
 
+    @Test
+    public void tes(){
+        System.out.println("sdfds");
+    }
 }
