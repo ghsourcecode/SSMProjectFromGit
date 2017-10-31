@@ -1,4 +1,4 @@
-package com.decom.chunks;
+package com.decom.chunks.economic;
 
 import java.text.DecimalFormat;
 import java.util.Currency;

@@ -1,4 +1,4 @@
-package com.decom.chunks;
+package com.decom.chunks.economic;
 
 public class CalcRatioResult {
 	/**

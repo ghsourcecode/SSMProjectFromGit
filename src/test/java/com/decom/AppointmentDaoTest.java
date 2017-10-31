@@ -30,9 +30,4 @@ public class AppointmentDaoTest extends BaseTest {
         System.out.println(appointment);
         System.out.println(appointment.getBookId());
     }
-
-    @Test
-    public void tes(){
-        System.out.println("sdfds");
-    }
 }
